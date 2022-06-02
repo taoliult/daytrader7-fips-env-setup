@@ -1,0 +1,108 @@
+CONNECTED(00000003)
+TLS server extension "renegotiation info" (id=65281), len=1
+0000 - 00                                                .
+---
+Certificate chain
+ 0 s:O = Example server, OU = Example server, CN = localhost
+   i:O = Example intermediate CA, OU = Example intermediate CA, CN = Example intermediate CA
+-----BEGIN CERTIFICATE-----
+MIIC4TCCAcmgAwIBAgIUPF3Tm89GKFpReDrsCjThLiSYN+gwDQYJKoZIhvcNAQEL
+BQAwZjEgMB4GA1UECgwXRXhhbXBsZSBpbnRlcm1lZGlhdGUgQ0ExIDAeBgNVBAsM
+F0V4YW1wbGUgaW50ZXJtZWRpYXRlIENBMSAwHgYDVQQDDBdFeGFtcGxlIGludGVy
+bWVkaWF0ZSBDQTAeFw0yMjA2MDkxOTU5NDBaFw0yMzA2MDkxOTU5NDBaMEYxFzAV
+BgNVBAoMDkV4YW1wbGUgc2VydmVyMRcwFQYDVQQLDA5FeGFtcGxlIHNlcnZlcjES
+MBAGA1UEAwwJbG9jYWxob3N0MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE4Knq
+BI/px81HTd4q+zvQEbnoiL1RH6Kxz1s9n1fiQBBpw3m/iVikWahzOMZcGxmdUv7N
+6zUmnV490kxJSwwElaNyMHAwHQYDVR0OBBYEFBP11s01TAtOGtb2SnkRo6nNsMNF
+MB8GA1UdIwQYMBaAFKAjrExwjGN05iC3ADCq2OLHm7rXMAkGA1UdEwQCMAAwDgYD
+VR0PAQH/BAQDAgOoMBMGA1UdJQQMMAoGCCsGAQUFBwMBMA0GCSqGSIb3DQEBCwUA
+A4IBAQB1RFQ0iZDMmfLzxx5DZMBWbgUQTzI2SsvMrWf/kyytf0VSSKQQa6KOnXoL
+RaIEakw+JU8TQlHK97FRUaMw9MVG5xTioWo7O3M+W3mE83EpgvtLmVSxq4/rwCRP
+vmRjb1Z2NSaxzF9oGnp26Uguwlbwf6XHEb/O5/6DF6Y8ty4YlAMsrgo4BK0BrcjZ
+dyD/la/t1cZt34tVTxvD0rN4XJlgzzbJIZYbRO22D3ElsD52CF5LmJ+oXzrMfecN
+uJvO1QLlIZEU2ENyj9fRFWe40i/z2zmbkNHEGkID7AGr0yGtMyvBvAkileJDwgSt
+7lZzHNVvzomnxp3K9NujaPas9YFl
+-----END CERTIFICATE-----
+ 1 s:O = Example intermediate CA, OU = Example intermediate CA, CN = Example intermediate CA
+   i:O = Example root CA, OU = Example root CA, CN = Example root CA
+-----BEGIN CERTIFICATE-----
+MIIDqDCCApCgAwIBAgIUA3tXJdropr4at+vL6OPcpXSm7OwwDQYJKoZIhvcNAQEL
+BQAwTjEYMBYGA1UECgwPRXhhbXBsZSByb290IENBMRgwFgYDVQQLDA9FeGFtcGxl
+IHJvb3QgQ0ExGDAWBgNVBAMMD0V4YW1wbGUgcm9vdCBDQTAeFw0yMjA2MDkxOTU5
+NDBaFw0yMzA2MDkxOTU5NDBaMGYxIDAeBgNVBAoMF0V4YW1wbGUgaW50ZXJtZWRp
+YXRlIENBMSAwHgYDVQQLDBdFeGFtcGxlIGludGVybWVkaWF0ZSBDQTEgMB4GA1UE
+AwwXRXhhbXBsZSBpbnRlcm1lZGlhdGUgQ0EwggEiMA0GCSqGSIb3DQEBAQUAA4IB
+DwAwggEKAoIBAQC5RSlZ4Z6XdFovS6Y37x5891bg0o4mX1i9kCY5FoNm81TGAEpv
+IRHJdeByI+iABCSp9sGn6l3Vx2bW4ThfIRAMuc1l/yX3nyuQYlD7vJ6K0L6XZX6v
+7EUxcQujY+jiQV3JNyU/CxsnFGt4M6jaz2p8Bd3+j91NVeHhoFuDGhqwUb4Y3crn
+4Svd6/XWachsIQP6SnwOhR/28+L09pKCfMvJFxvR8d47yuUd9MeFwZ9/nw96v+kY
+J6HBhMnmIVvz7qCy7PbAvm+ch2yJxGGcHRcGiaU0KFnGmcoZt/T4uhRKH8DWMNEi
+UXvhL4vlGXqX98sDp9YWUHTqaGvEKXT/OhsXAgMBAAGjZjBkMB0GA1UdDgQWBBSg
+I6xMcIxjdOYgtwAwqtjix5u61zAfBgNVHSMEGDAWgBSZQ9AZkhz7qyIT+xtADqbF
+4NgS4DASBgNVHRMBAf8ECDAGAQH/AgEAMA4GA1UdDwEB/wQEAwIBBjANBgkqhkiG
+9w0BAQsFAAOCAQEALX5rDnAqTlEyQvOZjO70rXPitkLz3XiWDVfUSSPvZKloueAe
+83VhJWM3gLybXH04lUjNrZUgqcV6mdBMcJ6jYD5bF/S0XV5Jdu33tfUR/zQIiRXP
+YgKJbF2cclM1UXMvmDmj/5H2Q9Mi6np3sNKTbKVHEX3OREcue6Yr1xkH59Cfxv/o
+vTqBe1l0Lf2kk2JzlPxJY7ayyct5ZoHQJv2A21OO1/aXHGpp3prOHvyuO1NisUI4
+Ppo2Kzp8+BG/qOrGwTe3gZzYbb2Y8HPwnCy3YP/EdKQ6ICw2VtsBZx0EpHO1vP7O
+ioBbFaYumsJrNpgq1PJg6QfEXtcGno7zSCPw2g==
+-----END CERTIFICATE-----
+ 2 s:O = Example root CA, OU = Example root CA, CN = Example root CA
+   i:O = Example root CA, OU = Example root CA, CN = Example root CA
+-----BEGIN CERTIFICATE-----
+MIIDfTCCAmWgAwIBAgIUM3GrnhbcyBe85xzcaN/+MMg9ARMwDQYJKoZIhvcNAQEL
+BQAwTjEYMBYGA1UECgwPRXhhbXBsZSByb290IENBMRgwFgYDVQQLDA9FeGFtcGxl
+IHJvb3QgQ0ExGDAWBgNVBAMMD0V4YW1wbGUgcm9vdCBDQTAeFw0yMjA2MDkxOTU5
+MzlaFw0yMzA2MDkxOTU5MzlaME4xGDAWBgNVBAoMD0V4YW1wbGUgcm9vdCBDQTEY
+MBYGA1UECwwPRXhhbXBsZSByb290IENBMRgwFgYDVQQDDA9FeGFtcGxlIHJvb3Qg
+Q0EwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQC24VCVs5+5Z7VYz2ZT
+rvN5ae8h5ecd9huXcd1TvVMYq9UrjQN8zYhwtlQCmkQx4Sk3Z5XFI2TLszjt7Ts9
+XEklVFMawYw3rLvDySt9tUEnAqgduO7Z97ztLUorl/HzvMLubFZd+Iq6MZEKNA5I
+r0mdfb5JN3LS58M9729SQOU4h9ngMLRvZWvuTnHzYiIyGFORDOlqG5TeRGlSY/NU
+C5G/9ClOmAdcRGgeGD0YH2v7v+u4DANRfgMe2HTUSAU3OUWosKRTJv+ySsnnLAZ5
+pOEgchr/+jpkqFN49A7n9xALfrS8sfzzONOnsvPMab1O7C/nkua7D0xnaybXObK+
+DbdLAgMBAAGjUzBRMB0GA1UdDgQWBBSZQ9AZkhz7qyIT+xtADqbF4NgS4DAfBgNV
+HSMEGDAWgBSZQ9AZkhz7qyIT+xtADqbF4NgS4DAPBgNVHRMBAf8EBTADAQH/MA0G
+CSqGSIb3DQEBCwUAA4IBAQA/SLL3gfh+nvW48q3aeKIlBoNAqo8fX2BpQOSOWS6L
+p/JK0V+W4/niW3n70DMUu8PAFpTwanxIrqhXpI7uMCWAIi2akFgPcbYT7CnDrXE4
+A5c7OcNU3C4KFdvVOu0HvOATBi9joHrlLqDEJR6/vlWGsUTxv+p2IiBYBT0Lbmzg
+WSavwjcGwyxlQHiPTQ4L1Hu3x3lI7ZO2P2RuqTNoNhi+jcqm92xcwy4erah0EZtc
+FniLm3MlJhKg7qTzjuZotFHUJmsuFjaU53P8IjvlMQt+QCMLD7LE04TlGUO7Sx9N
+DZ7sJlDfLXIDw+tT4J56zXctiaKTnTK3X6KTb1ClS2b4
+-----END CERTIFICATE-----
+---
+Server certificate
+subject=O = Example server, OU = Example server, CN = localhost
+
+issuer=O = Example intermediate CA, OU = Example intermediate CA, CN = Example intermediate CA
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: ECDSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 2924 bytes and written 481 bytes
+Verification error: self signed certificate in certificate chain
+---
+New, TLSv1.2, Cipher is ECDHE-ECDSA-AES128-SHA256
+Server public key is 256 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-ECDSA-AES128-SHA256
+    Session-ID: B95472A259F6C6B4131F87D9D83D4621A30ED0F09D1BF3B3D5495285DA1C74A9
+    Session-ID-ctx: 
+    Master-Key: 2A0F07D3BE6D88C3C554E58E73107B39D1A2F8151BFA7C8985AE2BCBA5DFDCAE5D44BEE7D3BD4FAC3BD1C1F76A3FB62D
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    Start Time: 1654805031
+    Timeout   : 7200 (sec)
+    Verify return code: 19 (self signed certificate in certificate chain)
+    Extended master secret: no
+---
+closed
