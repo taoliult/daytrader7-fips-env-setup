@@ -2,6 +2,9 @@
 For setup and start the daytrader7 in OpenLiberty using the OpenJDK FIPS mode.
 
 Install OpenSSL and Maven.
+
+    yum instll maven
+    yum install openssl
    
 Enable FIPS on Redhat and reboot using "root" access.
    
@@ -28,3 +31,5 @@ Access HTTPS by:
 Noted:
 
 If there is logging issue during the Maven install, please remove the commons-logging.jar from /usr/share/maven/lib.
+
+If running on RHEL 9.2, please change from nssSecmodDirectory = /etc/pki/nssdb to nssSecmodDirectory = sql:/etc/pki/nssdb in nss.fips.cfg
