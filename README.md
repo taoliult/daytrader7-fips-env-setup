@@ -6,7 +6,7 @@ Install OpenSSL and Maven.
     yum instll maven
     yum install openssl
    
-Enable FIPS on Redhat and reboot using "root" access.
+Enable FIPS on Redhat and reboot using "root" access .
    
     fips-mode-setup --enable
     reboot
